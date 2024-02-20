@@ -14,4 +14,4 @@ Lead Architect & Systems Engineer: **[@mdmehedisheikh](https://github.com/mdmehe
 ## 🚀 About Mehedi It Solution
 **Mehedi It Solution** (est. 2020) is an enterprise software engineering studio and digital agency based in Chattogram, Bangladesh. We architect, build, and maintain high-performance cloud applications, hospital/clinical ERP systems, real estate portals, institutional management suites, and high-conversion WordPress & WooCommerce solutions.
 
-<!-- Milestone 1/15: docs: initialize official software engineering agency profile (2023-11) -->
+<!-- Milestone 2/15: docs: add MediDesk HDMS clinical ERP flagship software overview (2024-02) -->
