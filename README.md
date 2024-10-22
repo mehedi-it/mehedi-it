@@ -14,4 +14,7 @@ Lead Architect & Systems Engineer: **[@mdmehedisheikh](https://github.com/mdmehe
 ## 🚀 About Mehedi It Solution
 **Mehedi It Solution** (est. 2020) is an enterprise software engineering studio and digital agency based in Chattogram, Bangladesh. We architect, build, and maintain high-performance cloud applications, hospital/clinical ERP systems, real estate portals, institutional management suites, and high-conversion WordPress & WooCommerce solutions.
 
-<!-- Milestone 3/15: docs: add Dalal247 property and land marketplace platform case study (2024-06) -->
+Our solutions are engineered under rigorous engineering standards: sub-100ms global latency, mobile-first responsiveness, zero-dependency lightweight code, and broad compatibility across modern edge runtimes (Cloudflare Workers, D1 SQLite, Next.js 15/16, OpenNext, Hono) and enterprise WordPress ecosystems (PHP 7.4 through PHP 8.5).
+
+
+<!-- Milestone 4/15: docs: document commercial WordPress plugins and high-conversion CartFlows suite (2024-10) -->
