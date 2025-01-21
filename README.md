@@ -16,5 +16,10 @@ Lead Architect & Systems Engineer: **[@mdmehedisheikh](https://github.com/mdmehe
 
 Our solutions are engineered under rigorous engineering standards: sub-100ms global latency, mobile-first responsiveness, zero-dependency lightweight code, and broad compatibility across modern edge runtimes (Cloudflare Workers, D1 SQLite, Next.js 15/16, OpenNext, Hono) and enterprise WordPress ecosystems (PHP 7.4 through PHP 8.5).
 
+---
 
-<!-- Milestone 4/15: docs: document commercial WordPress plugins and high-conversion CartFlows suite (2024-10) -->
+## 🌟 Flagship Cloud Software Products (Live Production Demos)
+
+| Product | Live Preview | Primary Architecture | Core Domain & Capabilities | Architecture Showcase |
+
+<!-- Milestone 5/15: docs: add EduAngon tri-stream school, madrasa, and coaching ERP platform (2025-01) -->
