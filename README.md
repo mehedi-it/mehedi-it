@@ -27,4 +27,9 @@ Our solutions are engineered under rigorous engineering standards: sub-100ms glo
 | **EduAngon (এডুঅঙ্গন)** | [🔗 Live Cloud Demo](https://eduangon.mehedi-it-solution.workers.dev) | Next.js 15, OpenNext (`@opennextjs/cloudflare`), Tailwind CSS, Cloudflare Workers & D1 | Tri-Stream Educational ERP: Strictly isolated operations for General Schools, Islamic Madrasas, and Coaching Centers. Setup wizard, lottery admission engine, PVC student ID/admit studio, 4-stage Hifz tracker, Shariah fund, and Guardian portal. | [Showcase](https://github.com/mdmehedisheikh/eduangon-erp-architecture) |
 | **Dalal247** | [🔗 Live Cloud Demo](https://dalal247.dalal247.workers.dev) | Next.js 16, Drizzle ORM, Cloudflare Workers & D1, Tailwind CSS | Multi-Vendor Real Estate & Land Marketplace: Automated Bangladeshi land unit conversion algorithms (Katha, Bigha, Decimal to sqft), SMS broker lead routing, role dashboards (Buyer, Seller, Agent, Developer, Admin), and property filters. | [Showcase](https://github.com/mdmehedisheikh/dalal247-architecture) |
 
-<!-- Milestone 6/15: docs: add Doctor Serial Rx medical chamber workstation and prescription designer (2025-04) -->
+---
+
+## 🛒 Commercial WordPress & WooCommerce Product Suite (15 Products)
+
+
+<!-- Milestone 7/15: docs: add catalog of 13 industry-specific commercial WordPress themes (2025-07) -->
