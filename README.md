@@ -31,5 +31,9 @@ Our solutions are engineered under rigorous engineering standards: sub-100ms glo
 
 ## 🛒 Commercial WordPress & WooCommerce Product Suite (15 Products)
 
+Engineered with zero-bloat architecture, achieving 90+ Core Web Vitals and full PHP 7.4–8.5 compatibility:
 
-<!-- Milestone 7/15: docs: add catalog of 13 industry-specific commercial WordPress themes (2025-07) -->
+### 🧩 Commercial WordPress Plugins
+1. **Mehedi IT BD Checkout Pro** — Dynamic 64-district and 500+ thana cascading dropdown checkout plugin for WooCommerce & CartFlows with local pre-indexed datasets, zero-AJAX lookup, and courier route validation. *(Showcase: [bd-woocommerce-checkout-architecture](https://github.com/mdmehedisheikh/bd-woocommerce-checkout-architecture))*
+
+<!-- Milestone 8/15: docs: document enterprise intellectual property rights and code security policies (2025-10) -->
