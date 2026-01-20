@@ -35,5 +35,10 @@ Engineered with zero-bloat architecture, achieving 90+ Core Web Vitals and full 
 
 ### 🧩 Commercial WordPress Plugins
 1. **Mehedi IT BD Checkout Pro** — Dynamic 64-district and 500+ thana cascading dropdown checkout plugin for WooCommerce & CartFlows with local pre-indexed datasets, zero-AJAX lookup, and courier route validation. *(Showcase: [bd-woocommerce-checkout-architecture](https://github.com/mdmehedisheikh/bd-woocommerce-checkout-architecture))*
+2. **Photocard Social Generator** — Branded social news card generator plugin for WordPress and Elementor with Bengali calendar conversions, custom watermark overlays, and instant client-side canvas rendering. *(Showcase: [wordpress-themes-portfolio](https://github.com/mdmehedisheikh/wordpress-themes-portfolio))*
 
-<!-- Milestone 8/15: docs: document enterprise intellectual property rights and code security policies (2025-10) -->
+### 🎨 Industry-Specific Commercial WordPress Themes (13 Products)
+*(Curated Code & Theme Architecture Showcase: [wordpress-themes-portfolio](https://github.com/mdmehedisheikh/wordpress-themes-portfolio))*
+
+
+<!-- Milestone 9/15: docs: update Cloudflare Workers edge serverless platform benchmarks (2026-01) -->
