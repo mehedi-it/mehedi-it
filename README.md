@@ -40,5 +40,10 @@ Engineered with zero-bloat architecture, achieving 90+ Core Web Vitals and full 
 ### 🎨 Industry-Specific Commercial WordPress Themes (13 Products)
 *(Curated Code & Theme Architecture Showcase: [wordpress-themes-portfolio](https://github.com/mdmehedisheikh/wordpress-themes-portfolio))*
 
+| Category | Themes | Key Capabilities & Architecture |
+|---|---|---|
+| **Healthcare** | `clinic-theme` | Doctor chamber directory, diagnostic rate cards, WhatsApp appointment booking, clean CPT hooks |
+| **Real Estate** | `land-theme` | Bangladeshi land unit filters (Katha, Bigha, Decimal), interactive GPS maps, broker CTAs |
+| **Automotive** | `car-shop-theme` | Reconditioned vehicle inventory, dynamic spec attribute filter, PJAX transitions, WhatsApp showroom leads |
 
-<!-- Milestone 9/15: docs: update Cloudflare Workers edge serverless platform benchmarks (2026-01) -->
+<!-- Milestone 10/15: docs: add commercial enterprise SLA, white-label licensing, and custom development terms (2026-04) -->
