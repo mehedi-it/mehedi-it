@@ -45,5 +45,10 @@ Engineered with zero-bloat architecture, achieving 90+ Core Web Vitals and full 
 | **Healthcare** | `clinic-theme` | Doctor chamber directory, diagnostic rate cards, WhatsApp appointment booking, clean CPT hooks |
 | **Real Estate** | `land-theme` | Bangladeshi land unit filters (Katha, Bigha, Decimal), interactive GPS maps, broker CTAs |
 | **Automotive** | `car-shop-theme` | Reconditioned vehicle inventory, dynamic spec attribute filter, PJAX transitions, WhatsApp showroom leads |
+| **Retail & Merch** | `ecommerce-theme`, `ecommerce-theme-2` | High-conversion single-page checkout, Customizer banner builders, Neo-Brutalist UX, 95+ PageSpeed |
+| **News & Media** | `news-theme`, `news-theme2` | Breaking news ticker, high-RPM Google AdSense responsive slots, SolaimanLipi typography |
+| **Corporate & Trade**| `meghna-theme`, `exim-theme` | Multi-demo corporate layouts, SPA transitions, export-import B2B catalogs, RFQ builder |
+| **Interior & Decor** | `furniture-theme`, `curtain-theme` | Room catalogs, fabric swatch portfolios, live WordPress Customizer pen editing |
+| **Home Repair & Trade**| `electrician-theme-plus`, `electrician-theme-pro` | High-impact emergency call CTAs, contractor bid flow, industrial dark-mode, compliance cards |
 
-<!-- Milestone 10/15: docs: add commercial enterprise SLA, white-label licensing, and custom development terms (2026-04) -->
+<!-- Milestone 11/15: docs: update Chattogram headquarters contact channels and verified 24/7 client hotline (2026-07) -->
