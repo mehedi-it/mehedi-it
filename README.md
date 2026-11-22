@@ -54,5 +54,10 @@ Engineered with zero-bloat architecture, achieving 90+ Core Web Vitals and full 
 ---
 
 ## 🔒 Source Code & Proprietary Rights Notice
+All commercial applications and themes above are proprietary software engineered and licensed by **Mehedi It Solution**. All core production source code repositories are maintained under strict private security controls (`github.com/mehedi-it/*` Private) to safeguard client intellectual property.
 
-<!-- Milestone 12/15: docs: initialize official company landing page and product portfolio (2026-11) -->
+For architecture overviews, curated schema design contracts, and developer code-review showcases, visit lead architect **[@mdmehedisheikh's Public Showcases](https://github.com/mdmehedisheikh)**.
+
+---
+
+<!-- Milestone 13/15: docs: update MediDesk HDMS live demo link to mehedi-it-solution subdomain (2026-11) -->
