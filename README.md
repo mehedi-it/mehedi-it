@@ -51,4 +51,8 @@ Engineered with zero-bloat architecture, achieving 90+ Core Web Vitals and full 
 | **Interior & Decor** | `furniture-theme`, `curtain-theme` | Room catalogs, fabric swatch portfolios, live WordPress Customizer pen editing |
 | **Home Repair & Trade**| `electrician-theme-plus`, `electrician-theme-pro` | High-impact emergency call CTAs, contractor bid flow, industrial dark-mode, compliance cards |
 
-<!-- Milestone 11/15: docs: update Chattogram headquarters contact channels and verified 24/7 client hotline (2026-07) -->
+---
+
+## 🔒 Source Code & Proprietary Rights Notice
+
+<!-- Milestone 12/15: docs: initialize official company landing page and product portfolio (2026-11) -->
