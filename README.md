@@ -64,5 +64,8 @@ For architecture overviews, curated schema design contracts, and developer code-
 We partner with private multi-specialty hospitals, diagnostic centers, doctor chambers, educational institutions, real estate developers, and eCommerce merchants worldwide:
 
 - **Official Website:** [https://mehediit.com](https://mehediit.com)
-
-<!-- Milestone 14/15: docs: update Featured Projects and Live SaaS Deployments with Cloudflare Workers URLs (2026-11) -->
+- **Direct Hotline:** +880 1788-326333
+- **Lead Systems Engineer:** [@mdmehedisheikh](https://github.com/mdmehedisheikh)
+- **Corporate GitHub:** [@mehedi-it](https://github.com/mehedi-it)
+- **Commercial Inquiry Email:** mehediit.com@gmail.com
+- **Headquarters:** Chattogram, Bangladesh
