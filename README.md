@@ -60,4 +60,9 @@ For architecture overviews, curated schema design contracts, and developer code-
 
 ---
 
-<!-- Milestone 13/15: docs: update MediDesk HDMS live demo link to mehedi-it-solution subdomain (2026-11) -->
+## 🤝 Commercial Licensing & Custom Engineering Services
+We partner with private multi-specialty hospitals, diagnostic centers, doctor chambers, educational institutions, real estate developers, and eCommerce merchants worldwide:
+
+- **Official Website:** [https://mehediit.com](https://mehediit.com)
+
+<!-- Milestone 14/15: docs: update Featured Projects and Live SaaS Deployments with Cloudflare Workers URLs (2026-11) -->
